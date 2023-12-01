@@ -1,0 +1,2 @@
+# translator
+ Automate translation.
